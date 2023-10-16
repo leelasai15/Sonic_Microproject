@@ -22,5 +22,5 @@ Overall, the purpose and functionality of the "Sonic" website align closely with
 2. Web Services: Static web apps
 
 **Deployment:**
-1. GitHub: https://krishna-vineeth.github.io/Sonic/
+1. GitHub: https://leelasai15.github.io/Sonic_Microproject/
 2. Azure: https://black-field-01efa7010.3.azurestaticapps.net
